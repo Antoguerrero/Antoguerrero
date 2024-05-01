@@ -6,7 +6,10 @@
 (Peluche de colección Bad Bunny)
 
 ## DESCRIPCION
-Subida del retogit de Entornos de desarrollo
+Subida del retogit de Entornos de desarrollo.
+
+## RETOGIT ARCHIVO
+[RETOGIT](RETO GIT .pdf)
 
 ## COMPONENTES
 -PDF con los pasos a seguir e imagenes.
