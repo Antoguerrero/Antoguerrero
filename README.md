@@ -1,6 +1,6 @@
 # REPOSITORIO GITHUB ANTONIO GUERRERO 🐰
 
-![imagen portada](IMG_3089.jpeg)
+![imagen portada|10](IMG_3089.jpeg)
 
 (Peluche de colección Bad Bunny)
 
