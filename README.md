@@ -9,7 +9,7 @@
 Subida del retogit de Entornos de desarrollo.
 
 ## RETOGIT ARCHIVO
-[RETOGIT](RETO GIT .pdf)
+[RETOGIT](RETOGIT.pdf)
 
 ## COMPONENTES
 -PDF con los pasos a seguir e imagenes.
